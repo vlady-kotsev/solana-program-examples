@@ -1,6 +1,6 @@
-# Solana Counter Program Framework Comparison
+# Solana Program Examples
 
-This repository is part of a Solana Program Development artefact that showcases different implementations of two programs (Counter and TokenSwap) across various Solana program frameworks. The goal is to compare and contrast the developer experience, code structure, and capabilities of different frameworks.
+This repository is part of a Solana Program Development artefact that showcases different implementations of two programs (Counter and TokenMint) across various Solana program frameworks. The goal is to compare and contrast the developer experience, code structure, and capabilities of different frameworks.
 
 ## Current Implementations
 
@@ -12,7 +12,7 @@ This repository is part of a Solana Program Development artefact that showcases 
 - **Star** ⚠️ WIP
 - **Steel** ⚠️ WIP
 
-### TokenSwap program
+### TokenMint program
 
 - **Anchor** - Located in `token-mint/anchor-program/` ✅
 - **Pinocchio** - Located in `token-mint/pinocchio-program/` ✅
