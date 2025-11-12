@@ -29,4 +29,4 @@ This comparison helps developers:
 - Learn framework-specific patterns and best practices
 - Compare code complexity and developer ergonomics
 
-Each implementation demonstrates the same core functionality (Counter and TokenSwap programs) while highlighting the unique approaches and features of each framework.
+Each implementation demonstrates the same core functionality (Counter and TokenMint programs) while highlighting the unique approaches and features of each framework.
